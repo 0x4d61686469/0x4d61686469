@@ -8,6 +8,9 @@
 
 - 📫 How to reach me **iranimahdi79@gmail.com**
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahdi-irani-gougjehsoltan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-irani-gougjehsoltan" height="30" width="40" /></a>
