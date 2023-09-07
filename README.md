@@ -9,7 +9,7 @@
 - 📫 How to reach me **iranimahdi79@gmail.com**
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
