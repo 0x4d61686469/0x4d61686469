@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi Irani</h1>
-<h3 align="center">A passionate Machine Learning Expert from Tabriz, Iran</h3>
+<h3 align="center">A passionate Machine Learning Expert</h3>
+<h3 align="center">I live in Tabriz, Iran</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdirani" alt="mahdirani" /></a> </p>
 
