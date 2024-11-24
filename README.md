@@ -4,9 +4,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdirani&row=2&column=3" alt="mahdirani" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow & neural networks**
+- 🌱 CyberSecurity - Bug Hunter**
 
-- 📫 How to reach me **iranimahdi79@gmail.com**
+- 📫 How to reach me **0x4d61686469@gmail.com**
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
